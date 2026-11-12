@@ -42,11 +42,15 @@ Cápsulas do tempo digitais: juntas fotos, vídeos, mensagens, notas de voz e do
 
 ## Rich Light
 
+<img src="assets/rich-light.png" alt="Ícone do Rich Light" width="88" align="left">
+
 Um botão grande que liga e desliga a lanterna do iPhone. Modo claro, escuro e OLED, 14 idiomas. Desbloqueio único, sem subscrições nem anúncios.
 
 **Plataformas:** iPhone
 
 [Site](https://richlight.vercel.app) · Código fechado · App Store — em breve (em aprovação na UE)
+
+<br clear="left">
 
 ---
 
