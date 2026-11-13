@@ -3,7 +3,7 @@
   "name": "Dare for Two",
   "order": 2,
   "icon": "icon.png",
-  "iconInset": false,
+  "iconInset": true,
   "tint": "#e2503a",
   "status": "em-breve",
   "category": "jogos",
