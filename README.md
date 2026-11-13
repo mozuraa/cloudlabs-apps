@@ -32,11 +32,11 @@ Um jogo de cartas para casais: começa leve e vai aquecendo, só até onde os do
 
 <img src="assets/openlater.png" alt="Ícone do OpenLater" width="88" align="left">
 
-Cápsulas do tempo digitais: juntas fotos, vídeos, mensagens, notas de voz e documentos, escolhes a data de abertura e partilhas um link individual. Até lá, a cápsula fica fechada.
+Uma caixa de lembranças pessoal: tiras fotos, gravas vídeos e notas de voz ou escreves notas dentro da app, sem ver o que captaste, e selas a caixa com um selo de cera. Ela só abre na data que escolhes ou quando voltas ao sítio onde a selaste, o que acontecer primeiro. Se não aguentares, podes abri-la antes a pagar, e o selo fica partido. As caixas ficam iguais no iPhone, no iPad e no Mac pelo iCloud, com tudo cifrado. 14 idiomas. Grátis, sem contas, sem anúncios e sem rastreio; o OpenLater+ é uma subscrição opcional.
 
-**Plataformas:** Web · iPhone
+**Plataformas:** iPhone · iPad · Mac
 
-[Site e app web](https://www.openlater.fr) · Código fechado · App Store — em breve (em aprovação na UE)
+[Site](https://openlater-app.vercel.app) · Código fechado · App Store — em breve (em revisão pela Apple)
 
 <br clear="left">
 
@@ -108,7 +108,7 @@ Código fechado · App Store — em breve (em testes no TestFlight)
 |---|---|---|---|
 | Orbe | Mac, Windows, iPhone | Disponível no Mac e no Windows | [Site](https://get-orbe.com) · [Download](https://get-orbe.com/instalar) · App Store — em breve (em aprovação na UE) |
 | Dare for Two | iPhone, iPad, Mac | Em breve | [Site](https://darefortwo.vercel.app) · App Store — em breve (em aprovação na UE) |
-| OpenLater | Web, iPhone | Disponível na web | [Site](https://www.openlater.fr) · App Store — em breve (em aprovação na UE) |
+| OpenLater | iPhone, iPad, Mac | Em breve | [Site](https://openlater-app.vercel.app) · App Store — em breve (em revisão pela Apple) |
 | Rich Light | iPhone | Em breve | [Site](https://richlight.vercel.app) · App Store — em breve (em aprovação na UE) |
 | Ma 間 | iPhone, iPad, Mac, Web | Temporizador disponível na web | [Site](https://mapomodoro.pages.dev) · App Store — em breve (em testes no TestFlight) |
 | Lume | iPad, iPhone, Mac | Em breve | App Store — em breve (em testes no TestFlight) |
