@@ -1,0 +1,30 @@
+{
+  "id": "orbe",
+  "name": "Orbe",
+  "order": 1,
+  "icon": "icon.png",
+  "iconInset": false,
+  "tint": "#8a94a6",
+  "status": "disponivel",
+  "platforms": ["Mac", "Windows", "iPhone"],
+  "languages": null,
+  "pt": {
+    "tagline": "A tua IA, por cima de todas as janelas.",
+    "text": "Um orbe com olhos que fica por cima de todas as janelas e abre o assistente de IA que já usas — Claude, ChatGPT, Gemini, Grok ou SciSpace — com a tua conta. A app para iPhone envia fotos, páginas digitalizadas e perguntas para a IA aberta no computador.",
+    "platformsNote": "macOS 13 ou mais recente · Windows 10 e 11",
+    "note": ""
+  },
+  "en": {
+    "tagline": "Your AI, on top of every window.",
+    "text": "An orb with eyes that floats above every window and opens the AI assistant you already use — Claude, ChatGPT, Gemini, Grok or SciSpace — with your own account. The iPhone app sends photos, scanned pages and questions to the AI open on your computer.",
+    "platformsNote": "macOS 13 or later · Windows 10 and 11",
+    "note": ""
+  },
+  "links": {
+    "site": "https://get-orbe.com",
+    "webApp": null,
+    "download": "https://get-orbe.com/instalar",
+    "appStore": null
+  },
+  "source": "fechado"
+}

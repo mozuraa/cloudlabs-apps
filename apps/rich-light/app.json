@@ -1,0 +1,30 @@
+{
+  "id": "rich-light",
+  "name": "Rich Light",
+  "order": 4,
+  "icon": "icon.png",
+  "iconInset": false,
+  "tint": "#ffc72e",
+  "status": "em-breve",
+  "platforms": ["iPhone"],
+  "languages": null,
+  "pt": {
+    "tagline": "Um botão. Luz.",
+    "text": "Um botão grande que liga e desliga a lanterna do iPhone. Modo claro, escuro e OLED, em 14 idiomas. Desbloqueio único, sem subscrições nem anúncios.",
+    "platformsNote": "",
+    "note": ""
+  },
+  "en": {
+    "tagline": "One button. Light.",
+    "text": "One big button that turns your iPhone's flashlight on and off. Light, dark and pure-black OLED modes, in 14 languages. One-time unlock, no subscriptions, no ads.",
+    "platformsNote": "",
+    "note": ""
+  },
+  "links": {
+    "site": "https://richlight.vercel.app",
+    "webApp": null,
+    "download": null,
+    "appStore": null
+  },
+  "source": "fechado"
+}

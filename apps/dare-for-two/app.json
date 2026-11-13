@@ -1,0 +1,30 @@
+{
+  "id": "dare-for-two",
+  "name": "Dare for Two",
+  "order": 2,
+  "icon": "icon.png",
+  "iconInset": false,
+  "tint": "#e2503a",
+  "status": "em-breve",
+  "platforms": ["Mac", "iPhone", "iPad"],
+  "languages": null,
+  "pt": {
+    "tagline": "Começa leve. Aquece até onde quiserem.",
+    "text": "Um jogo de cartas para casais: começa leve e vai aquecendo, só até onde os dois quiserem. 300 cartas em quatro baralhos, sem contas, sem anúncios e sem rastreio.",
+    "platformsNote": "",
+    "note": "Para maiores de 18"
+  },
+  "en": {
+    "tagline": "Starts light. Warms up as far as you both want.",
+    "text": "A card game for couples: it starts light and warms up, only as far as you both want. 300 cards in four decks, no accounts, no ads and no tracking.",
+    "platformsNote": "",
+    "note": "18+ only"
+  },
+  "links": {
+    "site": "https://darefortwo.vercel.app",
+    "webApp": null,
+    "download": null,
+    "appStore": null
+  },
+  "source": "fechado"
+}

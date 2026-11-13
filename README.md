@@ -6,7 +6,7 @@ Sou um programador independente em Portugal e a CloudLabs é a marca com que pub
 
 ## Orbe
 
-<img src="assets/orbe.png" alt="Ícone do Orbe" width="88" align="left">
+<img src="apps/orbe/icon.png" alt="Ícone do Orbe" width="88" align="left">
 
 Um orbe com olhos que fica por cima de todas as janelas e abre o assistente de IA que já usas (Claude, ChatGPT, Gemini, Grok ou SciSpace), com a tua conta. A app para iPhone envia fotos, páginas digitalizadas e perguntas para a IA aberta no computador.
 
@@ -18,7 +18,7 @@ Um orbe com olhos que fica por cima de todas as janelas e abre o assistente de I
 
 ## Dare for Two
 
-<img src="assets/dare-for-two.png" alt="Ícone do Dare for Two" width="88" align="left">
+<img src="apps/dare-for-two/icon.png" alt="Ícone do Dare for Two" width="88" align="left">
 
 Um jogo de cartas para casais: começa leve e vai aquecendo, só até onde os dois quiserem. 300 cartas em quatro baralhos, sem contas, sem anúncios e sem rastreio. Para maiores de 18.
 
@@ -30,7 +30,7 @@ Um jogo de cartas para casais: começa leve e vai aquecendo, só até onde os do
 
 ## OpenLater
 
-<img src="assets/openlater.png" alt="Ícone do OpenLater" width="88" align="left">
+<img src="apps/openlater/icon.png" alt="Ícone do OpenLater" width="88" align="left">
 
 Uma caixa de lembranças pessoal: tiras fotos, gravas vídeos e notas de voz ou escreves notas dentro da app, sem ver o que captaste, e selas a caixa com um selo de cera. Ela só abre na data que escolhes ou quando voltas ao sítio onde a selaste, o que acontecer primeiro. Se não aguentares, podes abri-la antes a pagar, e o selo fica partido. As caixas ficam iguais no iPhone, no iPad e no Mac pelo iCloud, com tudo cifrado. 14 idiomas. Grátis, sem contas, sem anúncios e sem rastreio; o OpenLater+ é uma subscrição opcional.
 
@@ -42,7 +42,7 @@ Uma caixa de lembranças pessoal: tiras fotos, gravas vídeos e notas de voz ou 
 
 ## Rich Light
 
-<img src="assets/rich-light.png" alt="Ícone do Rich Light" width="88" align="left">
+<img src="apps/rich-light/icon.png" alt="Ícone do Rich Light" width="88" align="left">
 
 Um botão grande que liga e desliga a lanterna do iPhone. Modo claro, escuro e OLED, 14 idiomas. Desbloqueio único, sem subscrições nem anúncios.
 

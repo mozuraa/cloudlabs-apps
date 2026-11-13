@@ -1,0 +1,30 @@
+{
+  "id": "openlater",
+  "name": "OpenLater",
+  "order": 3,
+  "icon": "icon.png",
+  "iconInset": false,
+  "tint": "#a49d93",
+  "status": "em-breve",
+  "platforms": ["Mac", "iPhone", "iPad"],
+  "languages": null,
+  "pt": {
+    "tagline": "Guarda hoje. Abre mais tarde.",
+    "text": "Uma caixa de lembranças pessoal: tiras fotos, gravas vídeos e notas de voz ou escreves notas sem ver o que captaste, e selas a caixa com um selo de cera. Ela só abre na data que escolhes ou quando voltas ao sítio onde a selaste. As caixas ficam iguais no iPhone, no iPad e no Mac pelo iCloud, com tudo cifrado.",
+    "platformsNote": "",
+    "note": "Grátis; OpenLater+ é uma subscrição opcional"
+  },
+  "en": {
+    "tagline": "Keep it today. Open it later.",
+    "text": "A personal memory box: take photos, record videos and voice notes or write notes without seeing what you captured, then seal the box with a wax seal. It only opens on the date you choose or when you return to the place where you sealed it. Boxes stay in sync across iPhone, iPad and Mac through iCloud, fully encrypted.",
+    "platformsNote": "",
+    "note": "Free; OpenLater+ is an optional subscription"
+  },
+  "links": {
+    "site": "https://openlater-app.vercel.app",
+    "webApp": null,
+    "download": null,
+    "appStore": null
+  },
+  "source": "fechado"
+}
