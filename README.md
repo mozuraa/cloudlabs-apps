@@ -88,6 +88,18 @@ Sons ambiente para focar, relaxar e dormir: 70 sons originais em oito categorias
 
 <br clear="left">
 
+## Tilepaw
+
+<img src="assets/tilepaw.png" alt="Ícone do Tilepaw" width="88" align="left">
+
+Um jogo de corrida em pixel art: és um gato a correr pelos telhados até casa. Tocas para saltar e voltas a tocar no ar para o salto duplo, por cima de prédios, varandas e obstáculos. O dia passa do nascer do sol à noite e a corrida fica cada vez mais rápida. Oito capitais (Lisboa, Londres, Paris, Roma, Tóquio, Cairo, Cidade do México e Buenos Aires), oito personagens com skins, ranking global no Game Center e 8 idiomas.
+
+**Plataformas:** iPhone · iPad
+
+Código fechado · App Store — em breve (em testes no TestFlight)
+
+<br clear="left">
+
 ---
 
 ## Resumo
@@ -101,5 +113,6 @@ Sons ambiente para focar, relaxar e dormir: 70 sons originais em oito categorias
 | Ma 間 | iPhone, iPad, Mac, Web | Temporizador disponível na web | [Site](https://mapomodoro.pages.dev) · App Store — em breve (em testes no TestFlight) |
 | Lume | iPad, iPhone, Mac | Em breve | App Store — em breve (em testes no TestFlight) |
 | Sereno | iPhone, iPad, Mac | Em breve | [Site](https://sereno-brown.vercel.app) · App Store — em breve (em testes no TestFlight) |
+| Tilepaw | iPhone, iPad | Em breve | App Store — em breve (em testes no TestFlight) |
 
 Contacto e novidades: [@cloudlabsdev no X](https://x.com/cloudlabsdev)
