@@ -112,6 +112,18 @@ DNS rápido e privado para jogar, ligado com um toque. Mede o ping, o jitter e a
 
 <br clear="left">
 
+## Sling!
+
+<img src="assets/sling.png" alt="Ícone do Sling!" width="88" align="left">
+
+Um jogo vertical de fisga: puxas o Sling para baixo, largas e ele voa até ao próximo orb de ferrofluido, que o agarra no ar. Pelo caminho há inimigos, serras, dardos, portais, canhões e orbs de gelo onde escorregas. Infinito cada vez mais difícil, 30 níveis em três mundos, desafio diário e os modos Lava, Contra-relógio, Escuridão, Caos e Zen. Seis power-ups, 14 skins, ranking diário, semanal e de sempre e 14 idiomas. Sem anúncios; as compras na app (gemas e o passe mensal Sling+) são opcionais.
+
+**Plataformas:** iPhone
+
+Código fechado · App Store — em breve (em testes no TestFlight)
+
+<br clear="left">
+
 ---
 
 ## Resumo
@@ -127,5 +139,6 @@ DNS rápido e privado para jogar, ligado com um toque. Mede o ping, o jitter e a
 | Sereno | iPhone, iPad, Mac | Em breve | [Site](https://sereno-brown.vercel.app) · App Store — em breve (em testes no TestFlight) |
 | Tilepaw | iPhone, iPad | Em breve | App Store — em breve (em testes no TestFlight) |
 | ZeroLag | iPhone, iPad | Em breve | [Site](https://zerolag-app.vercel.app) · App Store — em breve (em testes no TestFlight) |
+| Sling! | iPhone | Em breve | App Store — em breve (em testes no TestFlight) |
 
 Contacto e novidades: [@cloudlabsdev no X](https://x.com/cloudlabsdev)
