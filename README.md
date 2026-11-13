@@ -64,6 +64,18 @@ Um temporizador Pomodoro calmo, com um ensō pintado a pincel no centro. Tudo o 
 
 <br clear="left">
 
+## Lume
+
+<img src="assets/lume.png" alt="Ícone da Lume" width="88" align="left">
+
+Um ecrã sempre ligado, calmo e personalizável, para deixar ao lado enquanto trabalhas ou descansas. Inspirado no ecrã de bloqueio do iPhone: fotos com efeito de profundidade, relógio com nove tipos de letra, espessura, tamanho e cor à escolha, e widgets de tempo, calendário, bateria, sol, lua, contagem decrescente e relógio mundial. À noite fica em vermelho escuro e, quando ninguém toca, escurece como o ecrã sempre ligado. Sem contas, sem anúncios e sem rastreio.
+
+**Plataformas:** iPad · iPhone · Mac
+
+Código fechado · App Store — em breve (em testes no TestFlight)
+
+<br clear="left">
+
 ---
 
 ## Resumo
@@ -75,5 +87,6 @@ Um temporizador Pomodoro calmo, com um ensō pintado a pincel no centro. Tudo o 
 | OpenLater | Web, iPhone | Disponível na web | [Site](https://www.openlater.fr) · App Store — em breve (em aprovação na UE) |
 | Rich Light | iPhone | Em breve | [Site](https://richlight.vercel.app) · App Store — em breve (em aprovação na UE) |
 | Ma 間 | iPhone, iPad, Mac, Web | Temporizador disponível na web | [Site](https://mapomodoro.pages.dev) · App Store — em breve (em testes no TestFlight) |
+| Lume | iPad, iPhone, Mac | Em breve | App Store — em breve (em testes no TestFlight) |
 
 Contacto e novidades: [@cloudlabsdev no X](https://x.com/cloudlabsdev)
