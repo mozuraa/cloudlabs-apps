@@ -52,6 +52,18 @@ Um botão grande que liga e desliga a lanterna do iPhone. Modo claro, escuro e O
 
 <br clear="left">
 
+## Ma 間
+
+<img src="assets/ma.png" alt="Ícone do Ma 間" width="88" align="left">
+
+Um temporizador Pomodoro calmo, com um ensō pintado a pincel no centro. Tudo o que conta o tempo é grátis: ciclos, notificações, Live Activity, widgets, estatísticas e sincronização por iCloud. O Ma Plus é um desbloqueio único só para a estética (temas japoneses, mostradores, sons), sem subscrições nem anúncios. 14 idiomas.
+
+**Plataformas:** iPhone · iPad · Mac · Web (temporizador no site)
+
+[Site e temporizador web](https://mapomodoro.pages.dev) · Código fechado · App Store — em breve (em testes no TestFlight)
+
+<br clear="left">
+
 ---
 
 ## Resumo
@@ -62,5 +74,6 @@ Um botão grande que liga e desliga a lanterna do iPhone. Modo claro, escuro e O
 | Dare for Two | iPhone, iPad, Mac | Em breve | [Site](https://darefortwo.vercel.app) · App Store — em breve (em aprovação na UE) |
 | OpenLater | Web, iPhone | Disponível na web | [Site](https://www.openlater.fr) · App Store — em breve (em aprovação na UE) |
 | Rich Light | iPhone | Em breve | [Site](https://richlight.vercel.app) · App Store — em breve (em aprovação na UE) |
+| Ma 間 | iPhone, iPad, Mac, Web | Temporizador disponível na web | [Site](https://mapomodoro.pages.dev) · App Store — em breve (em testes no TestFlight) |
 
 Contacto e novidades: [@cloudlabsdev no X](https://x.com/cloudlabsdev)
