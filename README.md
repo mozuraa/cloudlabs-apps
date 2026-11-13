@@ -76,6 +76,18 @@ Código fechado · App Store — em breve (em testes no TestFlight)
 
 <br clear="left">
 
+## Sereno
+
+<img src="assets/sereno.png" alt="Ícone do Sereno" width="88" align="left">
+
+Sons ambiente para focar, relaxar e dormir: 70 sons originais em oito categorias (chuva, água, floresta e campo, vento e fogo, viagem e cidade, casa, ruído, binaurais e tons), que podes misturar à vontade. Continua a tocar com o ecrã bloqueado e sem internet, tem temporizador para dormir e misturas guardadas, em 14 idiomas. Grátis, sem anúncios, sem contas e sem rastreio.
+
+**Plataformas:** iPhone · iPad · Mac
+
+[Site](https://sereno-brown.vercel.app) · Código fechado · App Store — em breve (em testes no TestFlight)
+
+<br clear="left">
+
 ---
 
 ## Resumo
@@ -88,5 +100,6 @@ Código fechado · App Store — em breve (em testes no TestFlight)
 | Rich Light | iPhone | Em breve | [Site](https://richlight.vercel.app) · App Store — em breve (em aprovação na UE) |
 | Ma 間 | iPhone, iPad, Mac, Web | Temporizador disponível na web | [Site](https://mapomodoro.pages.dev) · App Store — em breve (em testes no TestFlight) |
 | Lume | iPad, iPhone, Mac | Em breve | App Store — em breve (em testes no TestFlight) |
+| Sereno | iPhone, iPad, Mac | Em breve | [Site](https://sereno-brown.vercel.app) · App Store — em breve (em testes no TestFlight) |
 
 Contacto e novidades: [@cloudlabsdev no X](https://x.com/cloudlabsdev)
