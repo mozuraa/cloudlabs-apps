@@ -1,0 +1,32 @@
+{
+  "id": "tilepaw",
+  "name": "Tilepaw",
+  "order": 8,
+  "icon": "icon.png",
+  "iconInset": false,
+  "tint": "#a34527",
+  "status": "em-breve",
+  "category": "jogos",
+  "topics": ["arcada", "pixel-art"],
+  "platforms": ["iPhone", "iPad"],
+  "languages": null,
+  "pt": {
+    "tagline": "Um gato a correr pelos telhados até casa.",
+    "text": "Um jogo de corrida em pixel art: tocas para saltar e voltas a tocar no ar para o salto duplo, por cima de prédios, varandas e obstáculos. O dia passa do nascer do sol à noite e a corrida fica cada vez mais rápida. Oito capitais, oito personagens e ranking global no Game Center.",
+    "platformsNote": "",
+    "note": "Em testes no TestFlight"
+  },
+  "en": {
+    "tagline": "A cat racing across the rooftops home.",
+    "text": "A pixel-art runner: tap to jump and tap again mid-air to double jump over buildings, balconies and obstacles. The day goes from sunrise to night and the run keeps getting faster. Eight capital cities, eight characters and a global Game Center leaderboard.",
+    "platformsNote": "",
+    "note": "In TestFlight testing"
+  },
+  "links": {
+    "site": null,
+    "webApp": null,
+    "download": null,
+    "appStore": null
+  },
+  "source": "fechado"
+}

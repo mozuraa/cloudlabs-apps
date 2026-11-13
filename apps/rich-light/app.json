@@ -6,6 +6,8 @@
   "iconInset": false,
   "tint": "#ffc72e",
   "status": "em-breve",
+  "category": "utilitarios",
+  "topics": ["sem-anuncios"],
   "platforms": ["iPhone"],
   "languages": null,
   "pt": {

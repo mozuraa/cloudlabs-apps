@@ -1,0 +1,32 @@
+{
+  "id": "lume",
+  "name": "Lume",
+  "order": 6,
+  "icon": "icon.png",
+  "iconInset": false,
+  "tint": "#e8a050",
+  "status": "em-breve",
+  "category": "utilitarios",
+  "topics": ["widgets", "sem-anuncios", "sem-rastreio"],
+  "platforms": ["Mac", "iPhone", "iPad"],
+  "languages": null,
+  "pt": {
+    "tagline": "Um ecrã sempre ligado, calmo.",
+    "text": "Um ecrã sempre ligado, calmo e personalizável, para deixar ao lado enquanto trabalhas ou descansas. Fotos com efeito de profundidade, relógio com nove tipos de letra e widgets de tempo, calendário, bateria, sol, lua e relógio mundial. À noite fica em vermelho escuro e escurece quando ninguém toca.",
+    "platformsNote": "",
+    "note": "Em testes no TestFlight"
+  },
+  "en": {
+    "tagline": "A calm, always-on display.",
+    "text": "A calm, customisable always-on display to keep beside you while you work or rest. Photos with a depth effect, a clock in nine typefaces and widgets for weather, calendar, battery, sun, moon and world clock. At night it turns deep red and dims when no one touches it.",
+    "platformsNote": "",
+    "note": "In TestFlight testing"
+  },
+  "links": {
+    "site": null,
+    "webApp": null,
+    "download": null,
+    "appStore": null
+  },
+  "source": "fechado"
+}

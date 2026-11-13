@@ -1,0 +1,32 @@
+{
+  "id": "sling",
+  "name": "Sling!",
+  "order": 10,
+  "icon": "icon.png",
+  "iconInset": false,
+  "tint": "#f86739",
+  "status": "em-breve",
+  "category": "jogos",
+  "topics": ["arcada", "sem-anuncios"],
+  "platforms": ["iPhone"],
+  "languages": null,
+  "pt": {
+    "tagline": "Puxa, larga e voa.",
+    "text": "Um jogo vertical de fisga: puxas o Sling para baixo, largas e ele voa até ao próximo orb de ferrofluido, que o agarra no ar. Pelo caminho há inimigos, serras, portais e orbs de gelo. Modo infinito, 30 níveis em três mundos, desafio diário e cinco modos extra.",
+    "platformsNote": "",
+    "note": "Em testes no TestFlight"
+  },
+  "en": {
+    "tagline": "Pull, release, fly.",
+    "text": "A vertical slingshot game: pull Sling down, let go and it flies to the next ferrofluid orb, which catches it mid-air. Along the way there are enemies, saws, portals and ice orbs. Endless mode, 30 levels across three worlds, a daily challenge and five extra modes.",
+    "platformsNote": "",
+    "note": "In TestFlight testing"
+  },
+  "links": {
+    "site": null,
+    "webApp": null,
+    "download": null,
+    "appStore": null
+  },
+  "source": "fechado"
+}

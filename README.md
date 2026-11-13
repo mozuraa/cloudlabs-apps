@@ -54,7 +54,7 @@ Um botão grande que liga e desliga a lanterna do iPhone. Modo claro, escuro e O
 
 ## Ma 間
 
-<img src="assets/ma.png" alt="Ícone do Ma 間" width="88" align="left">
+<img src="apps/ma/icon.png" alt="Ícone do Ma 間" width="88" align="left">
 
 Um temporizador Pomodoro calmo, com um ensō pintado a pincel no centro. Tudo o que conta o tempo é grátis: ciclos, notificações, Live Activity, widgets, estatísticas e sincronização por iCloud. O Ma Plus é um desbloqueio único só para a estética (temas japoneses, mostradores, sons), sem subscrições nem anúncios. 14 idiomas.
 
@@ -66,7 +66,7 @@ Um temporizador Pomodoro calmo, com um ensō pintado a pincel no centro. Tudo o 
 
 ## Lume
 
-<img src="assets/lume.png" alt="Ícone da Lume" width="88" align="left">
+<img src="apps/lume/icon.png" alt="Ícone da Lume" width="88" align="left">
 
 Um ecrã sempre ligado, calmo e personalizável, para deixar ao lado enquanto trabalhas ou descansas. Inspirado no ecrã de bloqueio do iPhone: fotos com efeito de profundidade, relógio com nove tipos de letra, espessura, tamanho e cor à escolha, e widgets de tempo, calendário, bateria, sol, lua, contagem decrescente e relógio mundial. À noite fica em vermelho escuro e, quando ninguém toca, escurece como o ecrã sempre ligado. Sem contas, sem anúncios e sem rastreio.
 
@@ -78,7 +78,7 @@ Código fechado · App Store — em breve (em testes no TestFlight)
 
 ## Sereno
 
-<img src="assets/sereno.png" alt="Ícone do Sereno" width="88" align="left">
+<img src="apps/sereno/icon.png" alt="Ícone do Sereno" width="88" align="left">
 
 Sons ambiente para focar, relaxar e dormir: 70 sons originais em oito categorias (chuva, água, floresta e campo, vento e fogo, viagem e cidade, casa, ruído, binaurais e tons), que podes misturar à vontade. Continua a tocar com o ecrã bloqueado e sem internet, tem temporizador para dormir e misturas guardadas, em 14 idiomas. Grátis, sem anúncios, sem contas e sem rastreio.
 
@@ -90,7 +90,7 @@ Sons ambiente para focar, relaxar e dormir: 70 sons originais em oito categorias
 
 ## Tilepaw
 
-<img src="assets/tilepaw.png" alt="Ícone do Tilepaw" width="88" align="left">
+<img src="apps/tilepaw/icon.png" alt="Ícone do Tilepaw" width="88" align="left">
 
 Um jogo de corrida em pixel art: és um gato a correr pelos telhados até casa. Tocas para saltar e voltas a tocar no ar para o salto duplo, por cima de prédios, varandas e obstáculos. O dia passa do nascer do sol à noite e a corrida fica cada vez mais rápida. Oito capitais (Lisboa, Londres, Paris, Roma, Tóquio, Cairo, Cidade do México e Buenos Aires), oito personagens com skins, ranking global no Game Center e 8 idiomas.
 
@@ -102,7 +102,7 @@ Código fechado · App Store — em breve (em testes no TestFlight)
 
 ## ZeroLag
 
-<img src="assets/zerolag.png" alt="Ícone do ZeroLag" width="88" align="left">
+<img src="apps/zerolag/icon.png" alt="Ícone do ZeroLag" width="88" align="left">
 
 DNS rápido e privado para jogar, ligado com um toque. Mede o ping, o jitter e a perda de pacotes até às regiões de servidores de jogos e dá conselhos para a tua rede. O DNS não baixa o ping do jogo, mas tornas a ligação mais rápida a começar e mais privada, e sabes exatamente como está a tua rede. Três ligações base são grátis. O ZeroLag Pro, por subscrição, junta o Modo Jogo, o modo automático, ligações com bloqueio de anúncios, privacidade e filtro para a família, DNS próprio, widgets, temas e histórico no iCloud. Em 15 idiomas, sem contas, sem anúncios e sem rastreio.
 
@@ -114,7 +114,7 @@ DNS rápido e privado para jogar, ligado com um toque. Mede o ping, o jitter e a
 
 ## Sling!
 
-<img src="assets/sling.png" alt="Ícone do Sling!" width="88" align="left">
+<img src="apps/sling/icon.png" alt="Ícone do Sling!" width="88" align="left">
 
 Um jogo vertical de fisga: puxas o Sling para baixo, largas e ele voa até ao próximo orb de ferrofluido, que o agarra no ar. Pelo caminho há inimigos, serras, dardos, portais, canhões e orbs de gelo onde escorregas. Infinito cada vez mais difícil, 30 níveis em três mundos, desafio diário e os modos Lava, Contra-relógio, Escuridão, Caos e Zen. Seis power-ups, 14 skins, ranking diário, semanal e de sempre e 14 idiomas. Sem anúncios; as compras na app (gemas e o passe mensal Sling+) são opcionais.
 
@@ -128,17 +128,19 @@ Código fechado · App Store — em breve (em testes no TestFlight)
 
 ## Resumo
 
-| App | Plataformas | Estado | Links |
-|---|---|---|---|
-| Orbe | Mac, Windows, iPhone | Disponível no Mac e no Windows | [Site](https://get-orbe.com) · [Download](https://get-orbe.com/instalar) · App Store — em breve (em aprovação na UE) |
-| Dare for Two | iPhone, iPad, Mac | Em breve | [Site](https://darefortwo.vercel.app) · App Store — em breve (em aprovação na UE) |
-| OpenLater | iPhone, iPad, Mac | Em breve | [Site](https://openlater-app.vercel.app) · App Store — em breve (em revisão pela Apple) |
-| Rich Light | iPhone | Em breve | [Site](https://richlight.vercel.app) · App Store — em breve (em aprovação na UE) |
-| Ma 間 | iPhone, iPad, Mac, Web | Temporizador disponível na web | [Site](https://mapomodoro.pages.dev) · App Store — em breve (em testes no TestFlight) |
-| Lume | iPad, iPhone, Mac | Em breve | App Store — em breve (em testes no TestFlight) |
-| Sereno | iPhone, iPad, Mac | Em breve | [Site](https://sereno-brown.vercel.app) · App Store — em breve (em testes no TestFlight) |
-| Tilepaw | iPhone, iPad | Em breve | App Store — em breve (em testes no TestFlight) |
-| ZeroLag | iPhone, iPad | Em breve | [Site](https://zerolag-app.vercel.app) · App Store — em breve (em testes no TestFlight) |
-| Sling! | iPhone | Em breve | App Store — em breve (em testes no TestFlight) |
+| App | Plataformas | Idiomas | Estado | Links |
+|---|---|---|---|---|
+| Orbe | Mac, Windows, iPhone | — | Disponível no Mac e no Windows | [Site](https://get-orbe.com) · [Download](https://get-orbe.com/instalar) · App Store — em breve (em aprovação na UE) |
+| Dare for Two | iPhone, iPad, Mac | — | Em breve | [Site](https://darefortwo.vercel.app) · App Store — em breve (em aprovação na UE) |
+| OpenLater | iPhone, iPad, Mac | 14 | Em breve | [Site](https://openlater-app.vercel.app) · App Store — em breve (em revisão pela Apple) |
+| Rich Light | iPhone | 14 | Em breve | [Site](https://richlight.vercel.app) · App Store — em breve (em aprovação na UE) |
+| Ma 間 | iPhone, iPad, Mac, Web | 14 | Temporizador disponível na web | [Site](https://mapomodoro.pages.dev) · App Store — em breve (em testes no TestFlight) |
+| Lume | iPad, iPhone, Mac | — | Em breve | App Store — em breve (em testes no TestFlight) |
+| Sereno | iPhone, iPad, Mac | 14 | Em breve | [Site](https://sereno-brown.vercel.app) · App Store — em breve (em testes no TestFlight) |
+| Tilepaw | iPhone, iPad | 8 | Em breve | App Store — em breve (em testes no TestFlight) |
+| ZeroLag | iPhone, iPad | 15 | Em breve | [Site](https://zerolag-app.vercel.app) · App Store — em breve (em testes no TestFlight) |
+| Sling! | iPhone | 14 | Em breve | App Store — em breve (em testes no TestFlight) |
+
+Idiomas: número de idiomas da app (— quando ainda não foi confirmado).
 
 Contacto e novidades: [@cloudlabsdev no X](https://x.com/cloudlabsdev)

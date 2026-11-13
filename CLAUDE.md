@@ -49,6 +49,8 @@ Tudo no mesmo commit:
   "iconInset": false,
   "tint": "#ffc72e",
   "status": "em-breve",
+  "category": "utilitarios",
+  "topics": ["sem-anuncios"],
   "platforms": ["iPhone"],
   "languages": ["pt-PT", "en", "es", "fr", "de"],
   "pt": {
@@ -82,6 +84,17 @@ Regras de cada campo:
   - `disponivel` — já se pode usar (descarregar, abrir na web…);
   - `em-breve` — pronta, à espera de aprovação (App Store, TestFlight…);
   - `em-desenvolvimento` — ainda a ser feita.
+- **`category`** — **obrigatório**, uma só, a que melhor descreve a app. O site usa-a no filtro por categorias. Só destes valores:
+  - `produtividade` — trabalho, foco, organização, assistentes;
+  - `jogos` — qualquer jogo;
+  - `utilitarios` — ferramentas do dia a dia (lanterna, rede, ecrã, ficheiros…);
+  - `saude` — bem-estar, sono, relaxamento, exercício;
+  - `estilo-de-vida` — memórias, relações, hobbies, casa;
+  - `educacao` — aprender, estudar;
+  - `criatividade` — foto, vídeo, música, desenho, escrita;
+  - `financas` — dinheiro, orçamento, faturação.
+  Se nenhuma servir, não inventes uma: pergunta ao Rafael — acrescentar uma categoria nova também obriga a traduzi-la no site.
+- **`topics`** — **obrigatório** (pode ficar `[]`), até 5 tópicos que ajudam a pesquisa e o filtro. Só desta lista, e só se for verdade pela descrição da app: `ia`, `foco`, `sono`, `relaxar`, `casais`, `memorias`, `arcada`, `pixel-art`, `rede`, `widgets`, `sem-anuncios`, `sem-rastreio`. Para um tópico novo, pergunta ao Rafael (também tem de ser traduzido no site).
 - **`platforms`** — só destes nomes, por esta ordem: `Mac`, `Windows`, `iPhone`, `iPad`, `Android`, `Web`.
 - **`languages`** — os idiomas em que a **app** está disponível, em códigos BCP 47 (`pt-PT`, `pt-BR`, `en`, `es`, `fr`, `de`, `it`, `ja`, `zh-Hans`, `ar`…), tirados do projeto. Se ainda não souberes, põe `null` e avisa o Rafael. Nunca adivinhes.
 - **`pt` e `en`** — os dois são obrigatórios e dizem o mesmo; o `en` é tradução natural, não palavra a palavra.
@@ -107,13 +120,21 @@ Copia o formato das apps que já lá estão — ícone com `width="88"` a aponta
 
 ## Depois do push
 
-Diz ao Rafael que a app está no repositório. O site **cloudlabsdev.com** não se atualiza sozinho: é preciso pedir à conversa do site (pasta `cloudlabs-site/`) para ir buscar as novidades daqui, traduzir para os 14 idiomas e publicar. A conversa do site não publica uma app enquanto ela não estiver nos 14 idiomas.
+Diz ao Rafael que a app está no repositório. O site **cloudlabsdev.com** não se atualiza sozinho: é preciso pedir à conversa do site (pasta `cloudlabs-site/`) para:
+
+1. correr `node ferramentas/sincronizar.mjs` (traz as pastas `apps/*/` para o site e reduz os ícones);
+2. acrescentar os textos da app nos outros 12 idiomas em `dados/traducoes.json`;
+3. correr `node build.mjs` — **o site recusa-se a ser gerado** se faltar alguma tradução, ou se a categoria/tópico não existir em `filtros.mjs`;
+4. publicar.
+
+No site, cada app aparece num cartão com pesquisa e filtros por categoria, plataforma e tópico — por isso `category` e `topics` têm de estar certos.
 
 ## Lista de verificação
 
 - [ ] Pasta `apps/<id>/` criada; nada novo em `assets/`
 - [ ] `apps/<id>/icon.png` com 1024×1024 (ou `"icon": null` e o Rafael avisado)
 - [ ] `apps/<id>/app.json` com todos os campos, **PT e EN preenchidos**, JSON válido
+- [ ] `category` (uma, da lista) e `topics` (da lista, até 5)
 - [ ] `languages` com os idiomas reais da app (ou `null` e o Rafael avisado)
 - [ ] Secção no README (imagem em `apps/<id>/icon.png`) e linha na tabela Resumo
 - [ ] Nada inventado, nada privado

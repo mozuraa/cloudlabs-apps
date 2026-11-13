@@ -1,0 +1,32 @@
+{
+  "id": "sereno",
+  "name": "Sereno",
+  "order": 7,
+  "icon": "icon.png",
+  "iconInset": false,
+  "tint": "#203763",
+  "status": "em-breve",
+  "category": "saude",
+  "topics": ["foco", "sono", "relaxar", "sem-anuncios", "sem-rastreio"],
+  "platforms": ["Mac", "iPhone", "iPad"],
+  "languages": null,
+  "pt": {
+    "tagline": "Sons para focar, relaxar e dormir.",
+    "text": "70 sons ambiente originais em oito categorias, da chuva e do vento aos binaurais, que podes misturar à vontade. Continua a tocar com o ecrã bloqueado e sem internet, com temporizador para dormir e misturas guardadas. Grátis, sem anúncios, sem contas e sem rastreio.",
+    "platformsNote": "",
+    "note": "Em testes no TestFlight"
+  },
+  "en": {
+    "tagline": "Sounds to focus, relax and sleep.",
+    "text": "70 original ambient sounds in eight categories, from rain and wind to binaural tones, that you can mix freely. It keeps playing with the screen locked and offline, with a sleep timer and saved mixes. Free, with no ads, no accounts and no tracking.",
+    "platformsNote": "",
+    "note": "In TestFlight testing"
+  },
+  "links": {
+    "site": "https://sereno-brown.vercel.app",
+    "webApp": null,
+    "download": null,
+    "appStore": null
+  },
+  "source": "fechado"
+}

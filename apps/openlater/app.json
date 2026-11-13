@@ -6,6 +6,8 @@
   "iconInset": false,
   "tint": "#a49d93",
   "status": "em-breve",
+  "category": "estilo-de-vida",
+  "topics": ["memorias", "sem-anuncios", "sem-rastreio"],
   "platforms": ["Mac", "iPhone", "iPad"],
   "languages": null,
   "pt": {

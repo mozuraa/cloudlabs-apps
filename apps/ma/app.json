@@ -1,0 +1,32 @@
+{
+  "id": "ma",
+  "name": "Ma 間",
+  "order": 5,
+  "icon": "icon.png",
+  "iconInset": false,
+  "tint": "#d64a32",
+  "status": "disponivel",
+  "category": "produtividade",
+  "topics": ["foco", "widgets", "sem-anuncios"],
+  "platforms": ["Mac", "iPhone", "iPad", "Web"],
+  "languages": null,
+  "pt": {
+    "tagline": "Foco calmo, um ciclo de cada vez.",
+    "text": "Um temporizador Pomodoro calmo, com um ensō pintado a pincel no centro. Tudo o que conta o tempo é grátis: ciclos, notificações, Live Activity, widgets, estatísticas e sincronização por iCloud. O Ma Plus é um desbloqueio único só para a estética, sem subscrições nem anúncios.",
+    "platformsNote": "Temporizador também no site",
+    "note": "App em testes no TestFlight"
+  },
+  "en": {
+    "tagline": "Calm focus, one cycle at a time.",
+    "text": "A calm Pomodoro timer with a brush-painted ensō at its centre. Everything that keeps time is free: cycles, notifications, Live Activity, widgets, statistics and iCloud sync. Ma Plus is a one-time unlock for looks only, with no subscriptions or ads.",
+    "platformsNote": "Timer also on the website",
+    "note": "App in TestFlight testing"
+  },
+  "links": {
+    "site": "https://mapomodoro.pages.dev",
+    "webApp": "https://mapomodoro.pages.dev",
+    "download": null,
+    "appStore": null
+  },
+  "source": "fechado"
+}

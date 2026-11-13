@@ -1,0 +1,32 @@
+{
+  "id": "zerolag",
+  "name": "ZeroLag",
+  "order": 9,
+  "icon": "icon.png",
+  "iconInset": false,
+  "tint": "#3b6ef0",
+  "status": "em-breve",
+  "category": "utilitarios",
+  "topics": ["rede", "sem-anuncios", "sem-rastreio"],
+  "platforms": ["iPhone", "iPad"],
+  "languages": null,
+  "pt": {
+    "tagline": "DNS rápido e privado para jogar.",
+    "text": "DNS rápido e privado, ligado com um toque. Mede o ping, o jitter e a perda de pacotes até às regiões dos servidores de jogos e dá conselhos para a tua rede. O DNS não baixa o ping do jogo, mas a ligação fica mais rápida a começar e mais privada.",
+    "platformsNote": "iOS 18 ou mais recente",
+    "note": "Em testes no TestFlight"
+  },
+  "en": {
+    "tagline": "Fast, private DNS for gaming.",
+    "text": "Fast, private DNS, switched on with one tap. It measures ping, jitter and packet loss to game-server regions and gives advice for your network. DNS won't lower your in-game ping, but connections start faster and stay more private.",
+    "platformsNote": "iOS 18 or later",
+    "note": "In TestFlight testing"
+  },
+  "links": {
+    "site": "https://zerolag-app.vercel.app",
+    "webApp": null,
+    "download": null,
+    "appStore": null
+  },
+  "source": "fechado"
+}

@@ -6,6 +6,8 @@
   "iconInset": false,
   "tint": "#e2503a",
   "status": "em-breve",
+  "category": "jogos",
+  "topics": ["casais", "sem-anuncios", "sem-rastreio"],
   "platforms": ["Mac", "iPhone", "iPad"],
   "languages": null,
   "pt": {

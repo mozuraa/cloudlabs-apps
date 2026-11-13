@@ -6,6 +6,8 @@
   "iconInset": false,
   "tint": "#8a94a6",
   "status": "disponivel",
+  "category": "produtividade",
+  "topics": ["ia"],
   "platforms": ["Mac", "Windows", "iPhone"],
   "languages": null,
   "pt": {
