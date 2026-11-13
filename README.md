@@ -100,6 +100,18 @@ Código fechado · App Store — em breve (em testes no TestFlight)
 
 <br clear="left">
 
+## ZeroLag
+
+<img src="assets/zerolag.png" alt="Ícone do ZeroLag" width="88" align="left">
+
+DNS rápido e privado para jogar, ligado com um toque. Mede o ping, o jitter e a perda de pacotes até às regiões de servidores de jogos e dá conselhos para a tua rede. O DNS não baixa o ping do jogo, mas tornas a ligação mais rápida a começar e mais privada, e sabes exatamente como está a tua rede. Três ligações base são grátis. O ZeroLag Pro, por subscrição, junta o Modo Jogo, o modo automático, ligações com bloqueio de anúncios, privacidade e filtro para a família, DNS próprio, widgets, temas e histórico no iCloud. Em 15 idiomas, sem contas, sem anúncios e sem rastreio.
+
+**Plataformas:** iPhone · iPad (iOS 18 ou mais recente)
+
+[Site](https://zerolag-app.vercel.app) · Código fechado · App Store — em breve (em testes no TestFlight)
+
+<br clear="left">
+
 ---
 
 ## Resumo
@@ -114,5 +126,6 @@ Código fechado · App Store — em breve (em testes no TestFlight)
 | Lume | iPad, iPhone, Mac | Em breve | App Store — em breve (em testes no TestFlight) |
 | Sereno | iPhone, iPad, Mac | Em breve | [Site](https://sereno-brown.vercel.app) · App Store — em breve (em testes no TestFlight) |
 | Tilepaw | iPhone, iPad | Em breve | App Store — em breve (em testes no TestFlight) |
+| ZeroLag | iPhone, iPad | Em breve | [Site](https://zerolag-app.vercel.app) · App Store — em breve (em testes no TestFlight) |
 
 Contacto e novidades: [@cloudlabsdev no X](https://x.com/cloudlabsdev)
