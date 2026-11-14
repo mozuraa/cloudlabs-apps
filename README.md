@@ -24,7 +24,7 @@ Um jogo de cartas para casais: começa leve e vai aquecendo, só até onde os do
 
 **Plataformas:** iPhone · iPad · Mac
 
-[Site](https://darefortwo.vercel.app) · Código fechado · App Store — em breve (em aprovação na UE)
+[Site](https://darefortwo.pages.dev) · Código fechado · App Store — em breve (em aprovação na UE)
 
 <br clear="left">
 
@@ -131,7 +131,7 @@ Código fechado · App Store — em breve (em testes no TestFlight)
 | App | Plataformas | Idiomas | Estado | Links |
 |---|---|---|---|---|
 | Orbe | Mac, Windows, iPhone | — | Disponível no Mac e no Windows | [Site](https://get-orbe.com) · [Download](https://get-orbe.com/instalar) · App Store — em breve (em aprovação na UE) |
-| Dare for Two | iPhone, iPad, Mac | — | Em breve | [Site](https://darefortwo.vercel.app) · App Store — em breve (em aprovação na UE) |
+| Dare for Two | iPhone, iPad, Mac | — | Em breve | [Site](https://darefortwo.pages.dev) · App Store — em breve (em aprovação na UE) |
 | OpenLater | iPhone, iPad, Mac | 14 | Em breve | [Site](https://openlater-app.vercel.app) · App Store — em breve (em revisão pela Apple) |
 | Rich Light | iPhone | 14 | Em breve | [Site](https://richlight.vercel.app) · App Store — em breve (em aprovação na UE) |
 | Ma 間 | iPhone, iPad, Mac, Web | 14 | Temporizador disponível na web | [Site](https://mapomodoro.pages.dev) · App Store — em breve (em testes no TestFlight) |
