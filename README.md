@@ -12,7 +12,7 @@ Um orbe com olhos que fica por cima de todas as janelas e abre o assistente de I
 
 **Plataformas:** Mac (macOS 13 ou mais recente) · Windows 10 e 11 · iPhone
 
-[Site](https://get-orbe.com) · [Download para Mac e Windows](https://get-orbe.com/instalar) · Código fechado · App Store — em breve (em aprovação na UE)
+[Site](https://get-orbe.com) · [Download para Mac e Windows](https://get-orbe.com/instalar) · Código fechado · [App Store](https://apps.apple.com/app/id6832077642) (iPhone; na UE assim que a Apple aprovar o registo DSA)
 
 <br clear="left">
 
@@ -24,7 +24,7 @@ Um jogo de cartas para casais: começa leve e vai aquecendo, só até onde os do
 
 **Plataformas:** iPhone · iPad · Mac
 
-[Site](https://darefortwo.pages.dev) · Código fechado · App Store — em breve (em aprovação na UE)
+[Site](https://darefortwo.pages.dev) · Código fechado · App Store — em breve (ainda não submetida à Apple)
 
 <br clear="left">
 
@@ -36,7 +36,7 @@ Uma caixa de lembranças pessoal: tiras fotos, gravas vídeos e notas de voz ou 
 
 **Plataformas:** iPhone · iPad · Mac
 
-[Site](https://openlater-app.vercel.app) · Código fechado · App Store — em breve (em revisão pela Apple)
+[Site](https://openlater-app.vercel.app) · Código fechado · App Store — em breve (à espera de revisão pela Apple)
 
 <br clear="left">
 
@@ -48,7 +48,7 @@ Um botão grande que liga e desliga a lanterna do iPhone. Modo claro, escuro e O
 
 **Plataformas:** iPhone
 
-[Site](https://richlight.vercel.app) · Código fechado · App Store — em breve (em aprovação na UE)
+[Site](https://richlight.vercel.app) · Código fechado · App Store — em breve (à espera de revisão pela Apple)
 
 <br clear="left">
 
@@ -130,16 +130,18 @@ Código fechado · App Store — em breve (em testes no TestFlight)
 
 | App | Plataformas | Idiomas | Estado | Links |
 |---|---|---|---|---|
-| Orbe | Mac, Windows, iPhone | — | Disponível no Mac e no Windows | [Site](https://get-orbe.com) · [Download](https://get-orbe.com/instalar) · App Store — em breve (em aprovação na UE) |
-| Dare for Two | iPhone, iPad, Mac | — | Em breve | [Site](https://darefortwo.pages.dev) · App Store — em breve (em aprovação na UE) |
-| OpenLater | iPhone, iPad, Mac | 14 | Em breve | [Site](https://openlater-app.vercel.app) · App Store — em breve (em revisão pela Apple) |
-| Rich Light | iPhone | 14 | Em breve | [Site](https://richlight.vercel.app) · App Store — em breve (em aprovação na UE) |
+| Orbe | Mac, Windows, iPhone | — | Disponível no Mac e no Windows; iPhone fora da UE | [Site](https://get-orbe.com) · [Download](https://get-orbe.com/instalar) · [App Store](https://apps.apple.com/app/id6832077642) |
+| Dare for Two | iPhone, iPad, Mac | — | Em breve | [Site](https://darefortwo.pages.dev) · App Store — em breve (ainda não submetida) |
+| OpenLater | iPhone, iPad, Mac | 14 | Em breve | [Site](https://openlater-app.vercel.app) · App Store — em breve (à espera de revisão) |
+| Rich Light | iPhone | 14 | Em breve | [Site](https://richlight.vercel.app) · App Store — em breve (à espera de revisão) |
 | Ma 間 | iPhone, iPad, Mac, Web | 14 | Temporizador disponível na web | [Site](https://mapomodoro.pages.dev) · App Store — em breve (em testes no TestFlight) |
 | Lume | iPad, iPhone, Mac | — | Em breve | App Store — em breve (em testes no TestFlight) |
 | Sereno | iPhone, iPad, Mac | 14 | Em breve | [Site](https://sereno-brown.vercel.app) · App Store — em breve (em testes no TestFlight) |
 | Tilepaw | iPhone, iPad | 8 | Em breve | App Store — em breve (em testes no TestFlight) |
 | ZeroLag | iPhone, iPad | 15 | Em breve | [Site](https://zerolag-app.vercel.app) · App Store — em breve (em testes no TestFlight) |
 | Sling! | iPhone | 14 | Em breve | App Store — em breve (em testes no TestFlight) |
+
+Na União Europeia ainda nenhuma app está à venda na App Store: a Apple está a verificar o registo de comerciante exigido pelo Digital Services Act. Fora da UE, o Orbe já está disponível.
 
 Idiomas: número de idiomas da app (— quando ainda não foi confirmado).
 
