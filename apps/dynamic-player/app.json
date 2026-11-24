@@ -1,0 +1,32 @@
+{
+  "id": "dynamic-player",
+  "name": "Dynamic Player",
+  "order": 11,
+  "icon": "icon.png",
+  "iconInset": true,
+  "tint": "#ff4f9a",
+  "status": "disponivel",
+  "category": "utilitarios",
+  "topics": ["sem-anuncios", "sem-rastreio"],
+  "platforms": ["Mac"],
+  "languages": ["en", "zh-Hans", "hi", "es", "ar", "fr", "bn", "pt-PT", "pt-BR", "ru", "id", "ur", "de", "ja", "mr"],
+  "pt": {
+    "tagline": "O que está a tocar, mesmo no notch.",
+    "text": "Mostra a música ou o vídeo que está a tocar em qualquer app (Apple Music, Spotify, YouTube no browser, podcasts) numa pequena ilha preta à volta do notch, ou no topo do ecrã nos Macs sem notch. Passa o rato por cima para ver os controlos, solta-a numa janela flutuante que vai para um canto do ecrã ou abre-a em ecrã inteiro, com efeitos que se mexem com a música. Grátis, sem conta, sem anúncios e sem rastreio.",
+    "platformsNote": "macOS 14 ou mais recente",
+    "note": ""
+  },
+  "en": {
+    "tagline": "What's playing, right in the notch.",
+    "text": "Shows the music or video playing in any app (Apple Music, Spotify, YouTube in your browser, podcasts) as a small black island around the notch, or at the top of the screen on Macs without one. Point at it to see the controls, pull it out into a floating window that settles in a corner, or open it full screen with effects that move with the music. Free, with no account, no ads and no tracking.",
+    "platformsNote": "macOS 14 or later",
+    "note": ""
+  },
+  "links": {
+    "site": null,
+    "webApp": null,
+    "download": "https://github.com/mozuraa/dynamic-player-releases",
+    "appStore": null
+  },
+  "source": "fechado"
+}

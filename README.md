@@ -124,6 +124,18 @@ Código fechado · App Store — em breve (em testes no TestFlight)
 
 <br clear="left">
 
+## Dynamic Player
+
+<img src="apps/dynamic-player/icon.png" alt="Ícone do Dynamic Player" width="88" align="left">
+
+Mostra a música ou o vídeo que está a tocar em qualquer app (Apple Music, Spotify, YouTube no browser, podcasts) numa pequena ilha preta à volta do notch, ou no topo do ecrã nos Macs sem notch. Passa o rato por cima para ver os controlos, solta-a numa janela flutuante que vai para um canto do ecrã ou abre-a em ecrã inteiro, com efeitos que se mexem com a música. Grátis, sem conta, sem anúncios e sem rastreio.
+
+**Plataformas:** Mac (macOS 14 ou mais recente)
+
+[Download para Mac](https://github.com/mozuraa/dynamic-player-releases) · Código fechado
+
+<br clear="left">
+
 ---
 
 ## Resumo
@@ -140,6 +152,7 @@ Código fechado · App Store — em breve (em testes no TestFlight)
 | Tilepaw | iPhone, iPad | 8 | Em breve | App Store — em breve (em testes no TestFlight) |
 | ZeroLag | iPhone, iPad | 15 | Em breve | [Site](https://zerolag-app.vercel.app) · App Store — em breve (em testes no TestFlight) |
 | Sling! | iPhone | 14 | Em breve | App Store — em breve (em testes no TestFlight) |
+| Dynamic Player | Mac | 14 | Disponível | [Download](https://github.com/mozuraa/dynamic-player-releases) |
 
 Na União Europeia ainda nenhuma app está à venda na App Store: a Apple está a verificar o registo de comerciante exigido pelo Digital Services Act. Fora da UE, o Orbe já está disponível.
 
