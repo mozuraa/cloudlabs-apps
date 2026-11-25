@@ -132,7 +132,7 @@ Mostra a música ou o vídeo que está a tocar em qualquer app (Apple Music, Spo
 
 **Plataformas:** Mac (macOS 14 ou mais recente)
 
-[Download para Mac](https://github.com/mozuraa/dynamic-player-releases) · Código fechado
+[Site](https://dynamic-player.pages.dev) · [Download para Mac](https://github.com/mozuraa/dynamic-player-releases) · Código fechado
 
 <br clear="left">
 
@@ -152,7 +152,7 @@ Mostra a música ou o vídeo que está a tocar em qualquer app (Apple Music, Spo
 | Tilepaw | iPhone, iPad | 8 | Em breve | App Store — em breve (em testes no TestFlight) |
 | ZeroLag | iPhone, iPad | 15 | Em breve | [Site](https://zerolag-app.vercel.app) · App Store — em breve (em testes no TestFlight) |
 | Sling! | iPhone | 14 | Em breve | App Store — em breve (em testes no TestFlight) |
-| Dynamic Player | Mac | 14 | Disponível | [Download](https://github.com/mozuraa/dynamic-player-releases) |
+| Dynamic Player | Mac | 14 | Disponível | [Site](https://dynamic-player.pages.dev) · [Download](https://github.com/mozuraa/dynamic-player-releases) |
 
 Na União Europeia ainda nenhuma app está à venda na App Store: a Apple está a verificar o registo de comerciante exigido pelo Digital Services Act. Fora da UE, o Orbe já está disponível.
 
